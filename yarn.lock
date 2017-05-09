@@ -4206,6 +4206,10 @@ react-scripts@0.9.5:
   optionalDependencies:
     fsevents "1.0.17"
 
+react-skeleton-css@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-skeleton-css/-/react-skeleton-css-1.0.2.tgz#4ef1ea1a33eccaff9611d5240ab32e73d7e2cf91"
+
 react@^15.5.4:
   version "15.5.4"
   resolved "https://registry.yarnpkg.com/react/-/react-15.5.4.tgz#fa83eb01506ab237cdc1c8c3b1cea8de012bf047"
