@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.title {
+    border-bottom: solid 10px;
+}
