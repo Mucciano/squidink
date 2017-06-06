@@ -1,17 +1,21 @@
-import anime from './gifs/anime.gif';
-import barney from './gifs/barney.gif';
-import face from './gifs/face.gif';
-import mex from   './gifs/mex.gif';
-import two from  './gifs/200w_d.gif';
-import gun from  './gifs/gun.gif';
+import bonerJimi from './gifs/bonerJimi.gif';
+import demboysSM from './gifs/demboysSM.gif';
+import dudu2 from './gifs/dudu2.gif';
+import dumbcop2 from   './gifs/dumbcop2.gif';
+import fruits from  './gifs/fruits.gif';
+import richandianknife from  './gifs/richandianknife.gif';
+import trumpPick from  './gifs/trumpPick.gif';
+import yaHey from  './gifs/yaHey.gif';
 
 const gifList = [
-    anime,
-    barney,
-    face,
-    mex,
-    two,
-    gun
+    bonerJimi,
+    demboysSM,
+    dudu2,
+    dumbcop2,
+    fruits,
+    richandianknife,
+    trumpPick,
+    yaHey
 ];
 
 export default (gifList)
