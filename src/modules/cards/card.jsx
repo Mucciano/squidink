@@ -9,13 +9,13 @@ class Card extends React.Component {
         for (let i = 0; i < gifList.length; i++) {
             cards[i] = (
                 <div className={'row gif'} key={i}>
-                    <img src={gifList[i]} className={'eight columns'} alt=""/>
+                    <img src={gifList[i]} className={'eight columns offset-by-two'} alt=""/>
                 </div>
             )
         }
         return (
             <div>
-                <div className={'ten columns offset-by-two'}>
+                <div className={'twelve columns'}>
                     {cards}
                 </div>
             </div>
