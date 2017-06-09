@@ -9,7 +9,6 @@ class App extends Component {
 
         return (
             <div className={style.container}>
-              <Nav/>
               <Cards/>
             </div>
         )
