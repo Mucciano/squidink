@@ -1,9 +1,6 @@
-.header {
+.imgContainer {
     display: flex;
-    align-items: center;
-    width: 100%;
-}
+    justify-content: center;
+    margin: 1rem 0 3rem 0;
 
-.title {
-    border-bottom: solid 10px;
 }

@@ -1,10 +1,18 @@
 import React from 'react';
-import style from './nav.css';
+import logo from '../cards/assets/gifs/smallsquid.gif';
+import './nav.css';
 
 function Nav() {
+    const logoStyle = {
+        height: '10rem',
+        width: '10rem'
+    };
+
     return(
-        <div className={style.header}>
-            <h1 className={style.title}>Squid Ink</h1>
+        <div className={'row'}>
+            <div className={`imgContainer`}>
+                <img src={logo} style={logoStyle}/>
+            </div>
         </div>
     )
 }
